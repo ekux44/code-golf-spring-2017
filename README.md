@@ -132,7 +132,7 @@ Given a positive integer, you will create a factor tree in a simple HTML/XML-lik
 </composite>
 ```
 
-Each node must have 0 or 2 children.  A composite node's first child must be the smallest prime that divides into it.  Each line must be indented 2 spaces more than its parent.  No inputs will have prime factors larger than 40.
+Each node must have 0 or 2 children.  A composite node's first child must be the smallest prime that divides into it.  No inputs will have prime factors larger than 40.
 
 The input has one positive integer per line. In the output, put each factor tree (like above), separated by a newline.
 
