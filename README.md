@@ -68,7 +68,7 @@ Given an expression in [prefix notation](https://en.wikipedia.org/wiki/Polish_no
 
 For example:
 * +34 = 7
-* +5*34 = 12
+* +5*34 = 17
 
 The input has one expression per line. You can expect values between 0-9 (i.e. no numbers of multiple digits). Output one integer per line.
 
